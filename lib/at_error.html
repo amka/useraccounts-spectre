@@ -1,0 +1,14 @@
+<template name="atError">
+  {{#if singleError}}
+  <div class="at-error column col-12">
+    <div class="toasts bottom">
+      {{#each error}}
+      <div class="toast toast-error">
+        {{errorText}}
+        <button class="btn btn-clear"></button>
+      </div>
+      {{/each}}
+    </div>
+  </div>
+  {{/if}}
+</template>
