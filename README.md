@@ -1,7 +1,7 @@
 
 # meamka:useraccounts-spectre
 
-Meteor sign up and sign in templates (and much more!) styled for [Spectre.css](https://picturepan2.github.io/spectre/index.html)
+[Meteor](https://meteor.com) sign up and sign in templates (and much more!) styled for [Spectre.css](https://picturepan2.github.io/spectre/index.html)
 
 This package depends on [useraccounts:core](https://atmospherejs.com/useraccounts/core)
 
