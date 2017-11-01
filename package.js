@@ -67,5 +67,5 @@ Package.onUse(function (api) {
 Package.onTest(function (api) {
   api.use('ecmascript');
   api.use('tinytest');
-  api.use('tundar:useraccounts-spectre');
+  api.use('meamka:useraccounts-spectre');
 });
